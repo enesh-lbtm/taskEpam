@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <name>Aquarium</name>
+    <resident>
+        <element>
+            <name>GolFish</name>
+            <quantity>2</quantity>
+            <cost>5</cost>
+        </element>
+        <element>
+            <name>KarpFish</name>
+            <quantity>3</quantity>
+            <cost>2</cost>
+        </element>
+        <element>
+            <name>SomFish</name>
+            <quantity>4</quantity>
+            <cost>6</cost>
+        </element>
+        <element>
+            <name>RainbowFish</name>
+            <quantity>3</quantity>
+            <cost>5</cost>
+        </element>
+
+    </resident>
+</root>
